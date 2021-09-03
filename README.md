@@ -32,7 +32,9 @@ Success! Compiled 1 module.
 ```
 
 Open `index.html` in your browser (e.g. `firefox index.html` at the
-command line), and you should see a copy of the game:
+command line), and you should see a screen like this:
+
+![A screenshot of the initial game screen, with instructions](/example_screenshot.png)
 
 ## References
 
