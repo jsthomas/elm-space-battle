@@ -6,6 +6,10 @@ in 1962. I worked on this project in September of 2021, while I was at
 the [Recurse Center](https://www.recurse.com/), in order to learn more
 about front-end programming in Elm.
 
+I wrote an accompanying [blog
+post](https://jsthomas.github.io/elm-space-battle.html) that contains
+a bit more exposition about this project.
+
 *Disclaimer*: The code in this repo is not especially polished. Pull
 requests, issues, and feedback are all welcome, but I'm sure there are
 many refactor opportunities, and I'm not holding this repo up as model
